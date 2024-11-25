@@ -49,6 +49,7 @@ SourceArt/**/*.tga
 Binaries/*
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Plugins/*/Binaries/*
 =======
 Plugins/**/Binaries/*
@@ -56,6 +57,9 @@ Plugins/**/Binaries/*
 =======
 Plugins/**/Binaries/*
 >>>>>>> ad38606c9c9f0408f8c3654bc95e81d4484d6155
+=======
+Plugins/**/Binaries/*
+>>>>>>> b14345709831e99d4c2e3bb01ef8ebb23f484a38
 
 # Builds
 Build/*
@@ -78,6 +82,7 @@ Saved/*
 Intermediate/*
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Plugins/*/Intermediate/*
 =======
 Plugins/**/Intermediate/*
@@ -85,6 +90,9 @@ Plugins/**/Intermediate/*
 =======
 Plugins/**/Intermediate/*
 >>>>>>> ad38606c9c9f0408f8c3654bc95e81d4484d6155
+=======
+Plugins/**/Intermediate/*
+>>>>>>> b14345709831e99d4c2e3bb01ef8ebb23f484a38
 
 # Cache files for the editor to use
 DerivedDataCache/*
